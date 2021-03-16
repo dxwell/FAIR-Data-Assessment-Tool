@@ -10,6 +10,6 @@ This fork uses Bootstrap 4.0, a vertical questionnaire, JavaScript fixes, and mo
 Installation
 ------------
 
-Copy the file `index.html` from the html directory
+Copy the file `index.html` from the tool directory
 to a server.
 
